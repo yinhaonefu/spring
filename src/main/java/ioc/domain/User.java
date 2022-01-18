@@ -27,9 +27,6 @@ import java.util.Properties;
  * 用户类
  * 添加注释1
  * 添加注释2
- * 添加注释3
- * 添加注释4
- * 添加注释5
  *
  * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
  * @since
